@@ -46,7 +46,7 @@ int main() {
     // Test Case 2
     vector<int> nums2 = {4, 5, 4, 7};
     int k2 = 3;
-    cout << "Test 2: " << sol.maxSum(nums2, k2) << " (Expected 261)" << endl;
+    cout << "Test 2: " << sol.maxSum(nums2, k2) << " (Expected 90)" << endl;
 
     return 0;
 }
